@@ -1,8 +1,8 @@
-= { New Group Name } { New Group Type } Charter
+= Debug Task Group Charter
 
 == Introduction
 
-The {New Group Name} {New Group Type} aims to [INSERT CLEAR, CONCISE OVERALL MISSION STATEMENT IN 2-3 SENTENCES].
+The Debug Task Group Charter aims to [INSERT CLEAR, CONCISE OVERALL MISSION STATEMENT IN 2-3 SENTENCES].
 
 == Definitions (Optional)
 
